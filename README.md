@@ -21,7 +21,7 @@ _Key Performance Indicators (KPIs):_
    • Total Income (from customers)
 _Interactive Charts:_
 Transaction Insights:
-   • Weekly Revenue and Total Transaction amount (Line and stacked column chart)
+   • Quarterly Revenue and Total Transaction amount (Line and stacked column chart)
    • Revenue, trans_amount, interest_earned by Card Category (Table)
    • Revenue by Expenditure Type (Bar Chart)
 Customer Insights:
