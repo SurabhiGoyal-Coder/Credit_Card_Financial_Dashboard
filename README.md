@@ -7,7 +7,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 **Dataset Used:-** 
 Financial dataset used i.e., Credit card details, customers details and weekly csv add-ons files (cust_add.csv, cc_add.csv) of credit card and customer details file.
 
-**Steps:-**
+**Steps Taken:-**
 1. Data Preparation
 _Load Data:_
    • Import both datasets (Credit_card.csv and Customer.csv) by get data(Text/CSV) into Power BI Desktop and import weekly datasets after making the both dasboards by append weekly tables (cust_add.csv, 
@@ -34,7 +34,7 @@ _Filters and Slicers:_
    • Customer Filter: Filter all visualizations by customer (Age, Gender, State, Marital Status, Dependant Count).
    • Category Filter: Filter Revenue by category (Expenditure Type, Education, Job etc.).
 
-**Project Insights- Week 53 (31st Dec)**
+**Project Insights:- Week 53 (31st Dec)**
 WoW (Week on Week) change:
 • Revenue increased by 28.8%,
 • Total Transaction Amt & Count increased by 33% & 25% respectively.
