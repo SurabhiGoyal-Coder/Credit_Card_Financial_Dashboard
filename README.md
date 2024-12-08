@@ -28,6 +28,7 @@ Customer Insights:
    • Revenue per Week by Gender (Line Chart)
    • Spending by Top 5 States (Stacked Bar Chart)
    • Revenue, total interest earned, total income by customer_job (Table)
+
 3.Add Interactivity
 _Filters and Slicers:_
    • Date Range Filter: Filter transactions by Weeks.
