@@ -10,9 +10,9 @@ Financial dataset used i.e., Credit card details, customers details and weekly c
 **Steps Taken:-**
 1. Data Preparation
 * Load Data:
- * Import both datasets (Credit_card.csv and Customer.csv) by get data(Text/CSV) into Power BI Desktop and import weekly datasets after making the both dasboards by append weekly tables (cust_add.csv, 
+   * Import both datasets (Credit_card.csv and Customer.csv) by get data(Text/CSV) into Power BI Desktop and import weekly datasets after making the both dasboards by append weekly tables (cust_add.csv, 
     cc_add.csv) into original dataset through Power Query Editor for real time data and refresh the whole dashoard to see last week data and real time insights.
- * Use Power Query Editor to clean the data and standardize formats (dates, amounts, etc.).
+   * Use Power Query Editor to clean the data and standardize formats (dates, amounts, etc.).
 2. Create Combined Visualizations
 * Key Performance Indicators (KPIs):
  * Total Revenue (from credit_card)
