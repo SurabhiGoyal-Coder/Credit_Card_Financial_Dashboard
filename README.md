@@ -15,36 +15,36 @@ Financial dataset used i.e., Credit card details, customers details and weekly c
    * Use Power Query Editor to clean the data and standardize formats (dates, amounts, etc.).
 2. Create Combined Visualizations
 * Key Performance Indicators (KPIs):
- * Total Revenue (from credit_card)
- * Transaction Count (sum of transaction volume)
- * Average CSS (Customer satisfaction score)
- * Total Income (from customers)
+   * Total Revenue (from credit_card)
+   * Transaction Count (sum of transaction volume)
+   * Average CSS (Customer satisfaction score)
+   * Total Income (from customers)
 * Interactive Charts:
- * Transaction Insights:
-  * Quarterly Revenue and Total Transaction amount (Line and stacked column chart)
-  * Revenue, trans_amount, interest_earned by Card Category (Table)
-  * Revenue by Expenditure Type (Bar Chart)
+   * Transaction Insights:
+   * Quarterly Revenue and Total Transaction amount (Line and stacked column chart)
+   * Revenue, trans_amount, interest_earned by Card Category (Table)
+   * Revenue by Expenditure Type (Bar Chart)
  * Customer Insights:
-  * Revenue per Week by Gender (Line Chart)
-  * Spending by Top 5 States (Stacked Bar Chart)
-  * Revenue, total interest earned, total income by customer_job (Table).
+   * Revenue per Week by Gender (Line Chart)
+   * Spending by Top 5 States (Stacked Bar Chart)
+   * Revenue, total interest earned, total income by customer_job (Table).
 3. Add Interactivity
 * Filters and Slicers:
- * Date Range Filter: Filter transactions by Weeks.
- * Customer Filter: Filter all visualizations by customer (Age, Gender, State, Marital Status, Dependant Count).
- * Category Filter: Filter Revenue by category (Expenditure Type, Education, Job etc.).
+   * Date Range Filter: Filter transactions by Weeks.
+   * Customer Filter: Filter all visualizations by customer (Age, Gender, State, Marital Status, Dependant Count).
+   * Category Filter: Filter Revenue by category (Expenditure Type, Education, Job etc.).
 
 **Project Insights:- Week 53 (31st Dec)**
 * WoW (Week on Week) change:
- * Revenue increased by 28.8%,
- * Total Transaction Amt & Count increased by 33% & 25% respectively.
- * Customer count increased by 12.8%
+   * Revenue increased by 28.8%,
+   * Total Transaction Amt & Count increased by 33% & 25% respectively.
+   * Customer count increased by 12.8%
 * Overview YTD:
- * Overall revenue is 57M
- * Total interest is 8M
- * Total transaction amount is 46M
- * Male customers are contributing more in revenue 31M, female 26M
- * Blue & Silver credit card are contributing to 93% of overall transactions
- * TX, NY & CA is contributing to 68%
- * Overall Activation rate is 57.5%
- * Overall Delinquent rate is 6.06%
+   * Overall revenue is 57M
+   * Total interest is 8M
+   * Total transaction amount is 46M
+   * Male customers are contributing more in revenue 31M, female 26M
+   * Blue & Silver credit card are contributing to 93% of overall transactions
+   * TX, NY & CA is contributing to 68%
+   * Overall Activation rate is 57.5%
+   * Overall Delinquent rate is 6.06%
