@@ -10,29 +10,29 @@ Financial dataset used i.e., Credit card details, customers details and weekly c
 **Steps Taken:-**
 1. Data Preparation
 _Load Data:_
-   * Import both datasets (Credit_card.csv and Customer.csv) by get data(Text/CSV) into Power BI Desktop and import weekly datasets after making the both dasboards by append weekly tables (cust_add.csv, 
+* Import both datasets (Credit_card.csv and Customer.csv) by get data(Text/CSV) into Power BI Desktop and import weekly datasets after making the both dasboards by append weekly tables (cust_add.csv, 
     cc_add.csv) into original dataset through Power Query Editor for real time data and refresh the whole dashoard to see last week data and real time insights.
-   * Use Power Query Editor to clean the data and standardize formats (dates, amounts, etc.).
+* Use Power Query Editor to clean the data and standardize formats (dates, amounts, etc.).
 2. Create Combined Visualizations
 _Key Performance Indicators (KPIs):_
-   * Total Revenue (from credit_card)
-   * Transaction Count (sum of transaction volume)
-   * Average CSS (Customer satisfaction score)
-   * Total Income (from customers)
+* Total Revenue (from credit_card)
+* Transaction Count (sum of transaction volume)
+* Average CSS (Customer satisfaction score)
+* Total Income (from customers)
 _Interactive Charts:_
 Transaction Insights:
-   * Quarterly Revenue and Total Transaction amount (Line and stacked column chart)
-   * Revenue, trans_amount, interest_earned by Card Category (Table)
-   * Revenue by Expenditure Type (Bar Chart)
+* Quarterly Revenue and Total Transaction amount (Line and stacked column chart)
+* Revenue, trans_amount, interest_earned by Card Category (Table)
+* Revenue by Expenditure Type (Bar Chart)
 Customer Insights:
-   * Revenue per Week by Gender (Line Chart)
-   * Spending by Top 5 States (Stacked Bar Chart)
-   * Revenue, total interest earned, total income by customer_job (Table).
+* Revenue per Week by Gender (Line Chart)
+* Spending by Top 5 States (Stacked Bar Chart)
+* Revenue, total interest earned, total income by customer_job (Table).
 3. Add Interactivity
 _Filters and Slicers:_
-   * Date Range Filter: Filter transactions by Weeks.
-   * Customer Filter: Filter all visualizations by customer (Age, Gender, State, Marital Status, Dependant Count).
-   * Category Filter: Filter Revenue by category (Expenditure Type, Education, Job etc.).
+* Date Range Filter: Filter transactions by Weeks.
+* Customer Filter: Filter all visualizations by customer (Age, Gender, State, Marital Status, Dependant Count).
+* Category Filter: Filter Revenue by category (Expenditure Type, Education, Job etc.).
 
 **Project Insights:- Week 53 (31st Dec)**
 WoW (Week on Week) change:
